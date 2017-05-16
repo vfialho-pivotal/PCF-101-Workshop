@@ -8,11 +8,13 @@ This half day day hands-on classroom style session will provide developers (and 
  * _Welcome & Introductions_ 
 10:10 AM - 11:00 AM::
  * Session 1: _Cloud Native Introduction & Building Microservices_
-11:00 AM - 11:15 AM:: Break
+11:00 AM - 11:15 AM:: 
+ * Break
 11:15 AM - 12:15 PM:: 
 * Session 2: _Pivotal Cloud Foundry Architecture and Operations_
-12:15 PM - 1:00 PM:: Lunch
-1:00 PM - 2:45 PM:: 
+12:15 PM - 12:45 PM:: 
+ * Lunch
+12:45 PM - 2:45 PM:: 
 * Labs - Push, Scale, Bind and Monitor your app
 2:45 PM - 3:00 PM:: 
 * Wrap-up & Feedback

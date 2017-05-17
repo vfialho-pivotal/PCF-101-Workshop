@@ -7,7 +7,7 @@ This half day day hands-on classroom style session will provide developers (and 
 10:00 AM - 10:10 AM::
  * _Welcome & Introductions_ 
 10:10 AM - 11:00 AM::
- * Session 1: _Cloud Native Introduction & Building Microservices_
+ * Session 1: link:presentations/Cloud\ Native.pdf[_Cloud Native Introduction & Building Microservices_]
 11:00 AM - 11:15 AM:: 
  * Break
 11:15 AM - 12:15 PM:: 
